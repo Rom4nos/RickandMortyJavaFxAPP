@@ -1,0 +1,18 @@
+
+.root {
+    -fx-background-color: #141831;
+}
+
+.button {
+    -fx-background-color: #546fec;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 14px;
+}
+
+/*.image-view {*/
+/*    -fx-background-radius: 20px;*/
+/*    -fx-border-color: #ffffff;*/
+/*    -fx-border-width: 2px;*/
+/*    -fx-border-style: solid;*/
+/*    -fx-border-radius: 20px;*/
+/*}*/

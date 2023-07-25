@@ -1,0 +1,17 @@
+
+.root {
+    -fx-background-color: #402a4b;
+}
+
+.button {
+    -fx-background-color: #428a15;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 15px;
+}
+.text-field {
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 20px;
+    -fx-border-color: #333333;
+    -fx-border-radius: 20px;
+    -fx-border-width: 2px;
+}
